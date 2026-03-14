@@ -2,7 +2,7 @@ package demo;
 
 /**
  * Hello world!
- * Hello there
+ * 
  */
 public class App 
 {
